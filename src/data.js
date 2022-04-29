@@ -1,0 +1,88 @@
+const list = [
+  {
+    id: 1,
+    title: "",
+    price: 50000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/647951img-20211210-wa0031.jpg",
+    amount: 1,
+  },
+  {
+    id: 2,
+    title: "TIMBER WHITR",
+    price: 40000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/965893img-20211230-wa0009.jpg",
+    amount: 1,
+  },
+  {
+    id: 3,
+    title: "J4 WHITE",
+    price: 30000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/977347img-20211203-wa0031.jpg",
+    amount: 1,
+  },
+  {
+    id: 4,
+    title: "JBL EXTREME2",
+    price: 20000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/557275jbl-xtreme-2-portable-bluetooth-speaker-black.jpg_q90.jpg_.webp",
+    amount: 1,
+  },
+  {
+    id: 5,
+    title: "T-SHIRT",
+    price: 7000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/94906img-20201206-wa0001.jpg",
+    amount: 1,
+  },
+  {
+    id: 6,
+    title: "J4 CURRY",
+    price: 40000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/998921img-20211204-wa0067.jpg",
+    amount: 1,
+  },
+  {
+    id: 7,
+    title: "BLACK PENT ",
+    price: 693,
+    img: "https://www.kigure.rw/vendor/assets/product_img/52649img-20201220-wa0005.jpg",
+    amount: 1,
+  },
+  {
+    id: 8,
+    title: "Smartbracelet",
+    price: 10000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/Smart-Bracelet-Your-Health-Steward-For-iOS-and-Android-00.webp",
+    amount: 1,
+  },
+  {
+    id: 9,
+    title: "iPhone 13 PRO ",
+    price: 20000,
+    img: "https://image.made-in-china.com/201f0j00mdJWBOHPiRoS/Unlocked-Used-Mobile-Phones-for-Redmi-Note-7-8-PRO-Smart-Cell-Phones.webp",
+    amount: 1,
+  },
+  {
+    id: 10,
+    title: "CAMP GREEN DUALSHOCK4 WIRELESS CONTRO",
+    price: 40000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/350800img-20200914-wa0057.jpg",
+    amount: 1,
+  },
+  {
+    id: 11,
+    title: "REVOFLEX XTREME",
+    price: 20000,
+    img: "https://www.kigure.rw/vendor/assets/product_img/654553img-20211202-wa0031.jpg",
+    amount: 1,
+  },
+  {
+    id: 12,
+    title: "CHARGE CABLE FORPS3",
+    price: 157,
+    img: "https://www.kigure.rw/vendor/assets/product_img/975564charge-cable.png",
+    amount: 1,
+  },
+];
+
+export default list;
